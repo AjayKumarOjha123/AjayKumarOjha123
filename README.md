@@ -1,6 +1,24 @@
 # 💫 About Me:
-Hii Everyone i have a Good Knowledge in java Programming Language || DSA || OOPS || HTML || CSS || JS || i am Looking For a internship as a Java Developer ||
+# Ajay Kumar Ojha
 
+Hello! 👋 I'm Ajay Kumar Ojha from Bihar, India.
+
+
+- 💻 Passionate about Java, Data Structures, and Object-Oriented Programming (OOP).
+- 🖥️ Solid understanding of Operating Systems.
+- 🌐 Proficient in C, C++, HTML, CSS, and JavaScript.
+- 📚 Constantly learning and exploring new technologies.
+- 📖 Currently focused on strengthening my skills in Git and GitHub.
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ajay-kumar-ojha-b72343246/
+- Email: ajaykumarojha5556@gmail.com
+- Portfolio: https://ajaykumarojha.vercel.app/
+
+Feel free to check out my repositories, and don't hesitate to reach out for collaboration or any questions.
+
+Happy coding! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ajaykumar.ojha.3954) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/technical_study_ajay/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-kumar-ojha-b72343246/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCHZyoWI4QrLgqfLgNE44kjA) 
