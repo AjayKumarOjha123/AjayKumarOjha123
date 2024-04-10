@@ -15,7 +15,7 @@ Hello! 👋 I'm Ajay Kumar Ojha from Bihar, India.
 - LinkedIn: https://www.linkedin.com/in/ajay-kumar-ojha-b72343246/
 - Email: ajaykumarojha5556@gmail.com
 - Portfolio: https://ajaykumarojha.vercel.app/
-- 2nd Portfolio :-> https://ajayportfolio-com.vercel.app/
+- 2nd Portfolio :->https://ajayportfolio-com-sepia.vercel.app/
 - 
 Feel free to check out my repositories, and don't hesitate to reach out for collaboration or any questions.
 
